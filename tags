@@ -896,8 +896,11 @@ $	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==
 .page-foot	__site/css/franklin.css	/^.page-foot {$/;"	c
 .page-foot	_css/franklin.css	/^.page-foot {$/;"	c
 .profile	__site/css/franklin.css	/^.profile {$/;"	c
+.profile	_css/franklin.css	/^    .profile {$/;"	c
 .profile	_css/franklin.css	/^.profile {$/;"	c
 .short	__site/css/franklin.css	/^.short {$/;"	c
+.short	_css/franklin.css	/^    .short {$/;"	c
+.short	_css/franklin.css	/^    .short{$/;"	c
 .short	_css/franklin.css	/^.short {$/;"	c
 2018	__site/index.html	/^<h2 id="2018"><a href="#2018">2018<\/a><\/h2>$/;"	I
 2018	__site/index.html	/^<h2 id="2018"><a href="#2018">2018<\/a><\/h2>$/;"	i

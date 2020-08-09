@@ -2,8 +2,8 @@
 
 
 ~~~
-<div class="profile container">
-<img src="/assets/images/japan_photo.png"\>
+<div class="container">
+<img class="profile" src="/assets/images/japan_photo.png"\>
 </div>
 ~~~
 

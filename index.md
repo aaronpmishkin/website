@@ -1,8 +1,8 @@
 @def title = "Aaron Mishkin"
 
 ~~~
-<div class="profile container">
-<img src="/assets/images/berlin_photo.png"\>
+<div class="container">
+<img class="profile" src="/assets/images/berlin_photo.png"\>
 </div>
 ~~~
 

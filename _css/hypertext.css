@@ -8,9 +8,9 @@ header {
   margin-bottom: 50px; }
 
 /* on wide screens, fix content width to a max value */
-@media (min-width: 1100px) {
+@media (min-width: 940px) {
   header {
-    width: 940px;
+    width: 700px;
     margin-left: auto;
     margin-right: auto; }
   }
