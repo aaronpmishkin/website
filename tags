@@ -17,6 +17,8 @@ $	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==
 &	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e30500.h
 '	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda60500.h
 '	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e30500.h
+.email	__site/css/franklin.css	/^.email {$/;"	c
+.email	_css/franklin.css	/^.email {$/;"	c
 .franklin-content	__site/css/franklin.css	/^    .franklin-content {$/;"	c
 .franklin-content	__site/css/franklin.css	/^.franklin-content {$/;"	c
 .franklin-content	_css/franklin.css	/^    .franklin-content {$/;"	c
@@ -895,9 +897,12 @@ $	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==
 .katex-display>.katex>.katex-html>.tag	_libs/katex/katex.min.css	/^@font-face{font-family:KaTeX_AMS;src:url(fonts\/KaTeX_AMS-Regular.woff2) format("woff2"),url(fon/;"	c
 .page-foot	__site/css/franklin.css	/^.page-foot {$/;"	c
 .page-foot	_css/franklin.css	/^.page-foot {$/;"	c
+.profile	__site/css/franklin.css	/^    .profile {$/;"	c
 .profile	__site/css/franklin.css	/^.profile {$/;"	c
 .profile	_css/franklin.css	/^    .profile {$/;"	c
 .profile	_css/franklin.css	/^.profile {$/;"	c
+.short	__site/css/franklin.css	/^    .short {$/;"	c
+.short	__site/css/franklin.css	/^    .short{$/;"	c
 .short	__site/css/franklin.css	/^.short {$/;"	c
 .short	_css/franklin.css	/^    .short {$/;"	c
 .short	_css/franklin.css	/^    .short{$/;"	c
@@ -1641,26 +1646,6 @@ D	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof 
 D	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 D	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f
 D	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
-DejaVuSans-46	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-46"\/>$/;"	d
-DejaVuSans-46	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-46"\/>$/;"	i
-DejaVuSans-48	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-48"\/>$/;"	d
-DejaVuSans-48	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-48"\/>$/;"	i
-DejaVuSans-49	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-49"\/>$/;"	d
-DejaVuSans-49	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-49"\/>$/;"	i
-DejaVuSans-50	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-50"\/>$/;"	d
-DejaVuSans-50	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-50"\/>$/;"	i
-DejaVuSans-51	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-51"\/>$/;"	d
-DejaVuSans-51	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-51"\/>$/;"	i
-DejaVuSans-52	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-52"\/>$/;"	d
-DejaVuSans-52	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-52"\/>$/;"	i
-DejaVuSans-53	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-53"\/>$/;"	d
-DejaVuSans-53	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-53"\/>$/;"	i
-DejaVuSans-54	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-54"\/>$/;"	d
-DejaVuSans-54	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-54"\/>$/;"	i
-DejaVuSans-55	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-55"\/>$/;"	d
-DejaVuSans-55	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-55"\/>$/;"	i
-DejaVuSans-56	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-56"\/>$/;"	d
-DejaVuSans-56	__site/assets/scripts/output/script2.svg	/^" id="DejaVuSans-56"\/>$/;"	i
 Detailed About	__site/about/index.html	/^<div class="short"><h1 id="detailed_about"><a href="#detailed_about">Detailed About<\/a><\/h1><\//;"	h
 Detailed About	about.md	/^# Detailed About$/;"	c
 E	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f	function:AnonymousFunctioncdf8e3b70200
@@ -1681,7 +1666,6 @@ Interests	__site/about/index.html	/^<h3 id="interests"><a href="#interests">Inte
 Interests	about.md	/^### Interests$/;"	S	chapter:Detailed About
 L	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f
 L	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f
-Layer_1	__site/assets/hamburger.svg	/^<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-\/\/W3C\/\/DTD SVG 1.1\/\/EN'  'http:\/\/www.w3.or/;"	i
 M	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f
 M	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 M	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f
@@ -1782,7 +1766,6 @@ alwaysHandleSupSub	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof ex
 arraystretch	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda68500.a
 arraystretch	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e38500.a
 atom	__site/feed.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
-axes_1	__site/assets/scripts/output/script2.svg	/^  <g id="axes_1">$/;"	i
 b	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	c	class:AnonymousFunctioncdf8e3b71c00
 b	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	c	class:AnonymousFunctioncdf8e3b71d00
 b	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	c	class:AnonymousFunctioncdf8e3b72100
@@ -2151,7 +2134,6 @@ feed	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"
 feed	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	c	class:e
 fetch	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:e
 fetch	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:e
-figure_1	__site/assets/scripts/output/script2.svg	/^ <g id="figure_1">$/;"	i
 font	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:$._
 font	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda6a300.s
 font	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:e.extend.r
@@ -2349,22 +2331,6 @@ lexemesRe	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"=
 lexemesRe	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
 limits	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda68e00.s
 limits	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e38e00.s
-line2d_1	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_1">$/;"	i
-line2d_10	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_10">$/;"	i
-line2d_11	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_11">$/;"	i
-line2d_12	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_12">$/;"	i
-line2d_13	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_13">$/;"	i
-line2d_14	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_14">$/;"	i
-line2d_15	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_15">$/;"	i
-line2d_16	__site/assets/scripts/output/script2.svg	/^   <g id="line2d_16">$/;"	i
-line2d_2	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_2">$/;"	i
-line2d_3	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_3">$/;"	i
-line2d_4	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_4">$/;"	i
-line2d_5	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_5">$/;"	i
-line2d_6	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_6">$/;"	i
-line2d_7	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_7">$/;"	i
-line2d_8	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_8">$/;"	i
-line2d_9	__site/assets/scripts/output/script2.svg	/^     <g id="line2d_9">$/;"	i
 literal	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b71c00.p
 literal	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b71e00.r
 literal	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b72100.b
@@ -2387,12 +2353,6 @@ m	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"obj
 m	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	c	class:gullet
 m	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:AnonymousFunctionacf945e30500
 m	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:AnonymousFunctionacf945e32a00
-m8c4b5b8030	__site/assets/scripts/output/script2.svg	/^" id="m8c4b5b8030" style="stroke:#000000;stroke-width:0.8;"\/>$/;"	d
-m8c4b5b8030	__site/assets/scripts/output/script2.svg	/^" id="m8c4b5b8030" style="stroke:#000000;stroke-width:0.8;"\/>$/;"	i
-m96f9a0cdd1	__site/assets/scripts/output/script2.svg	/^" id="m96f9a0cdd1" style="stroke:#000000;stroke-width:0.8;"\/>$/;"	d
-m96f9a0cdd1	__site/assets/scripts/output/script2.svg	/^" id="m96f9a0cdd1" style="stroke:#000000;stroke-width:0.8;"\/>$/;"	i
-matplotlib.axis_1	__site/assets/scripts/output/script2.svg	/^   <g id="matplotlib.axis_1">$/;"	i
-matplotlib.axis_2	__site/assets/scripts/output/script2.svg	/^   <g id="matplotlib.axis_2">$/;"	i
 matrix	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda68300.e
 matrix	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e38300.e
 maxSize	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:e.extend.r
@@ -2458,8 +2418,6 @@ n	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==
 n	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:AnonymousFunctionacf945e30500
 n	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:AnonymousFunctionacf945e39c00
 n	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:r
-ns05f084040101	__site/assets/hamburger.svg	/^<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-\/\/W3C\/\/DTD SVG 1.1\/\/EN'  'http:\/\/www.w3.or/;"	n	uri:http://www.w3.org/2000/svg
-ns1aaea4250101	__site/assets/scripts/output/script2.svg	/^<svg height="345.6pt" version="1.1" viewBox="0 0 460.8 345.6" width="460.8pt" xmlns="http:\/\/ww/;"	n	uri:http://www.w3.org/2000/svg
 number	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda611400.n
 number	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda6a700.r
 number	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda6a800.i
@@ -2498,8 +2456,6 @@ p	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof 
 p	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f	function:AnonymousFunctioncdf8e3b70200
 p	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	c	class:AnonymousFunctionb62d00941c00
 p	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f	function:AnonymousFunctionb62d00940200
-p38be59daca	__site/assets/scripts/output/script2.svg	/^  <clipPath id="p38be59daca">$/;"	d
-p38be59daca	__site/assets/scripts/output/script2.svg	/^  <clipPath id="p38be59daca">$/;"	i
 pa	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 pa	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 parentIsSupSub	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda68e00.s
@@ -2522,12 +2478,6 @@ parser	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&
 parser	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:e.callFunction.i
 parser	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e38a00.u
 parser	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:e.callFunction.i
-patch_1	__site/assets/scripts/output/script2.svg	/^  <g id="patch_1">$/;"	i
-patch_2	__site/assets/scripts/output/script2.svg	/^   <g id="patch_2">$/;"	i
-patch_3	__site/assets/scripts/output/script2.svg	/^   <g id="patch_3">$/;"	i
-patch_4	__site/assets/scripts/output/script2.svg	/^   <g id="patch_4">$/;"	i
-patch_5	__site/assets/scripts/output/script2.svg	/^   <g id="patch_5">$/;"	i
-patch_6	__site/assets/scripts/output/script2.svg	/^   <g id="patch_6">$/;"	i
 pe	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 pe	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 phantom	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:e.extend.r
@@ -2772,21 +2722,6 @@ text	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object
 text	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:settings.i
 textSize	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:e.extend.r
 textSize	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:e.extend.r
-text_1	__site/assets/scripts/output/script2.svg	/^     <g id="text_1">$/;"	i
-text_10	__site/assets/scripts/output/script2.svg	/^     <g id="text_10">$/;"	i
-text_11	__site/assets/scripts/output/script2.svg	/^     <g id="text_11">$/;"	i
-text_12	__site/assets/scripts/output/script2.svg	/^     <g id="text_12">$/;"	i
-text_13	__site/assets/scripts/output/script2.svg	/^     <g id="text_13">$/;"	i
-text_14	__site/assets/scripts/output/script2.svg	/^     <g id="text_14">$/;"	i
-text_15	__site/assets/scripts/output/script2.svg	/^     <g id="text_15">$/;"	i
-text_2	__site/assets/scripts/output/script2.svg	/^     <g id="text_2">$/;"	i
-text_3	__site/assets/scripts/output/script2.svg	/^     <g id="text_3">$/;"	i
-text_4	__site/assets/scripts/output/script2.svg	/^     <g id="text_4">$/;"	i
-text_5	__site/assets/scripts/output/script2.svg	/^     <g id="text_5">$/;"	i
-text_6	__site/assets/scripts/output/script2.svg	/^     <g id="text_6">$/;"	i
-text_7	__site/assets/scripts/output/script2.svg	/^     <g id="text_7">$/;"	i
-text_8	__site/assets/scripts/output/script2.svg	/^     <g id="text_8">$/;"	i
-text_9	__site/assets/scripts/output/script2.svg	/^     <g id="text_9">$/;"	i
 toMarkup	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	c	class:e
 toMarkup	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:e
 toMarkup	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	c	class:e
@@ -2901,26 +2836,9 @@ withTextFontWeight	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typ
 withTextFontWeight	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:e
 x	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f	function:AnonymousFunctioncdf8e3b70200
 x	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f	function:AnonymousFunctionb62d00940200
-xlink	__site/assets/hamburger.svg	/^<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-\/\/W3C\/\/DTD SVG 1.1\/\/EN'  'http:\/\/www.w3.or/;"	n	uri:http://www.w3.org/1999/xlink
-xlink	__site/assets/scripts/output/script2.svg	/^<svg height="345.6pt" version="1.1" viewBox="0 0 460.8 345.6" width="460.8pt" xmlns="http:\/\/ww/;"	n	uri:http://www.w3.org/1999/xlink
 xr	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 xr	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
-xtick_1	__site/assets/scripts/output/script2.svg	/^    <g id="xtick_1">$/;"	i
-xtick_2	__site/assets/scripts/output/script2.svg	/^    <g id="xtick_2">$/;"	i
-xtick_3	__site/assets/scripts/output/script2.svg	/^    <g id="xtick_3">$/;"	i
-xtick_4	__site/assets/scripts/output/script2.svg	/^    <g id="xtick_4">$/;"	i
-xtick_5	__site/assets/scripts/output/script2.svg	/^    <g id="xtick_5">$/;"	i
-xtick_6	__site/assets/scripts/output/script2.svg	/^    <g id="xtick_6">$/;"	i
 y	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:AnonymousFunction0922bda67b00
 y	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:AnonymousFunctionacf945e37b00
-ytick_1	__site/assets/scripts/output/script2.svg	/^    <g id="ytick_1">$/;"	i
-ytick_2	__site/assets/scripts/output/script2.svg	/^    <g id="ytick_2">$/;"	i
-ytick_3	__site/assets/scripts/output/script2.svg	/^    <g id="ytick_3">$/;"	i
-ytick_4	__site/assets/scripts/output/script2.svg	/^    <g id="ytick_4">$/;"	i
-ytick_5	__site/assets/scripts/output/script2.svg	/^    <g id="ytick_5">$/;"	i
-ytick_6	__site/assets/scripts/output/script2.svg	/^    <g id="ytick_6">$/;"	i
-ytick_7	__site/assets/scripts/output/script2.svg	/^    <g id="ytick_7">$/;"	i
-ytick_8	__site/assets/scripts/output/script2.svg	/^    <g id="ytick_8">$/;"	i
-ytick_9	__site/assets/scripts/output/script2.svg	/^    <g id="ytick_9">$/;"	i
 ze	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 ze	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f

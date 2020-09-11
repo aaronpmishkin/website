@@ -21,7 +21,7 @@ I received my bachelor’s degree in computer science from UBC in 2018. During m
 
 The last six months of my undergraduate degree were spent with [Emtiyaz Khan](https://emtiyaz.github.io/index.html) at the RIKEN Center for Advanced Intelligence Project (AIP), where I worked on low-rank approaches to Gaussian variational inference in Bayesian neural networks.
 
-I am currently finishing my master's at UBC, where I am fortunate to be supervised by [Mark Schmidt](https://www.cs.ubc.ca/~schmidtm/).
+I completed by master's at UBC, where I was extremely fortunate to be supervised by [Mark Schmidt](https://www.cs.ubc.ca/~schmidtm/). My master's research was primarily on first-order optimization under interpolation conditions.
 
 ### Service
 I was reviewer for NeurIPS 2019, NeurIPS 2020 and ICML 2020. I have also reviewed for the Journal of Machine Learning Research. 

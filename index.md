@@ -10,7 +10,7 @@
 # About 
 @@
 
-I am a master’s student in the Department of Computer Science at the University of British Columbia, where I am advised by [Mark Schmidt](https://www.cs.ubc.ca/~schmidtm/). My research interests are in optimization for machine learning.
+I am a first-year PhD student in the Department of Computer Science at Stanford University. I previously completed my master's in computer science at the University of British Columbia, where I was advised by [Mark Schmidt](https://www.cs.ubc.ca/~schmidtm/). My research interests are in optimization for machine learning.
 
 @@short
 # Recent Activities
@@ -18,6 +18,7 @@ I am a master’s student in the Department of Computer Science at the Universit
 
 ## 2020
 
+* **September 10**: I have relocated to Stanford University to begin my PhD! 
 * **June 29 - July 10**: I had a lot of fun attending the virtual MLSS this year — many thanks to the organizers for their hard work! My virtual poster is public on [YouTube](https://www.youtube.com/watch?v=IchhE4JXLE4).
 * **June 15**: New preprint is on [arXiv](https://arxiv.org/abs/2006.06821)! I had great fun helping out with the experiments for this work on implicit regularization and preconditioners in generalized linear models.
 * **April 29**: I will attend the (virtual) [MLSS 2020](http://mlss.tuebingen.mpg.de/2020/index.html) from 28 June to 10 July this summer.
@@ -37,4 +38,8 @@ I am a master’s student in the Department of Computer Science at the Universit
 
 # Contact
 
-I can be contacted at [amishkin@cs.ubc.ca](mailto:amishkin@cs.ubc.ca) and [@mishkinaaron](https://twitter.com/MishkinAaron). My GitHub is [aaronpmishkin](https://github.com/aaronpmishkin).
+My email is
+~~~
+<img class="email" src="/assets/images/email.png"\>
+~~~
+and my GitHub is [aaronpmishkin](https://github.com/aaronpmishkin).

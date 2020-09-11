@@ -270,6 +270,12 @@ code {
     float: right;
 }
 
+.email {
+    width: 15em !important;
+    padding-left: 0 !important;
+    vertical-align: middle;
+}
+
 @media (max-width: 900px) {
     .short{
         width: 45% !important;
