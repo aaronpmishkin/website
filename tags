@@ -909,13 +909,13 @@ $	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==
 .short	_css/franklin.css	/^.short {$/;"	c
 2018	__site/index.html	/^<h2 id="2018"><a href="#2018">2018<\/a><\/h2>$/;"	I
 2018	__site/index.html	/^<h2 id="2018"><a href="#2018">2018<\/a><\/h2>$/;"	i
-2018	index.md	/^## 2018$/;"	s	chapter:Recent Activities
+2018	index.md	/^### 2018$/;"	S	chapter:Recent Activities
 2019	__site/index.html	/^<h2 id="2019"><a href="#2019">2019<\/a><\/h2>$/;"	I
 2019	__site/index.html	/^<h2 id="2019"><a href="#2019">2019<\/a><\/h2>$/;"	i
-2019	index.md	/^## 2019$/;"	s	chapter:Recent Activities
+2019	index.md	/^### 2019$/;"	S	chapter:Recent Activities
 2020	__site/index.html	/^<h2 id="2020"><a href="#2020">2020<\/a><\/h2>$/;"	I
 2020	__site/index.html	/^<h2 id="2020"><a href="#2020">2020<\/a><\/h2>$/;"	i
-2020	index.md	/^## 2020$/;"	s	chapter:Recent Activities
+2020	index.md	/^### 2020$/;"	S	chapter:Recent Activities
 <	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda60500.h
 <	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e30500.h
 >	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda60500.h
@@ -1710,6 +1710,7 @@ Talks about Painless SGD:	__site/research/index.html	/^<h3 id="talks_about_span_
 Talks about \\citet{vaswani2019painless}:	research.md	/^### Talks about \\citet{vaswani2019painless}:$/;"	S	chapter:Talks
 Talks at the UBC Machine Learning Reading Group &#40;MLRG&#41;:	__site/research/index.html	/^<h3 id="talks_at_the_ubc_machine_learning_reading_group_a_hrefhttpswwwcsubccalabslcimlrgmlrg"><a/;"	j
 Talks at the UBC Machine Learning Reading Group [(MLRG)](https://www.cs.ubc.ca/labs/lci/mlrg/):	research.md	/^### Talks at the UBC Machine Learning Reading Group [(MLRG)](https:\/\/www.cs.ubc.ca\/labs\/lci\//;"	S	chapter:Talks
+Theses	research.md	/^# Theses$/;"	c
 Tr	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 Tr	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 UNDERSCORE_IDENT_RE	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b70200.r

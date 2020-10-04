@@ -8,7 +8,13 @@
 
 1. \biblabel{mishkin2018slang}{Mishkin et al. (2018)} _SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient_. **A. Mishkin**, F. Kunstner, D. Nielsen, M. Schmidt, M. E. Khan. NeurIPS, 2018. [[arXiv](https://arxiv.org/abs/1811.04504)] [[code](https://github.com/aaronpmishkin/SLANG)] [[video](https://www.youtube.com/watch?v=ekaB_weR5Bw)]
 
-1. \biblabel{mishkin2018wvc}{Mishkin (2018)} _Web ValueCharts: Analyzing Individual and Group Preferences with Interactive, Web-based Visualizations_. **A. Mishkin**. Review of Undergraduate Computer Science, 2018. [[pdf]()]
+1. \biblabel{mishkin2018wvc}{Mishkin (2018)} _Web ValueCharts: Analyzing Individual and Group Preferences with Interactive, Web-based Visualizations_. **A. Mishkin**. Review of Undergraduate Computer Science, 2018. [[website](http://rucs.ca/web-valuecharts-analyzing-individual-and-group-preferences-with-interactive-web-based-visualizations)]
+
+
+# Theses
+
+1. \biblabel{vaswani2020each}{Mishkin (2020)} _Interpolation, Growth Conditions, and Stochastic Gradient Descent_. **A. Mishkin**. MSc Thesis, 2020. [[pdf](http://hdl.handle.net/2429/76150)] [[slides](/assets/slides/msc_slides.pdf)] 
+
 
 # Talks
 
