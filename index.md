@@ -10,7 +10,9 @@
 # About 
 @@
 
-I am a first-year PhD student in the Department of Computer Science at Stanford University. My research interests are in optimization for machine learning. 
+I am a second-year PhD student in the Department of Computer Science at Stanford University.
+I am fortunate to be supervised [Mert Pilanci](https://stanford.edu/~pilanci/).
+My research interests are in optimization for machine learning. 
 
 Previously, I completed a master's in computer science at the University of British Columbia, where I was advised by [Mark Schmidt](https://www.cs.ubc.ca/~schmidtm/). 
 
@@ -20,8 +22,19 @@ I am supported by an NSF Graduate Research Fellowship and an NSERC Postgraduate 
 # Recent Activities
 @@
 
+### 2022
+
+* **February 7**: New [pre-print](https://arxiv.org/abs/2202.01331) out! We develop convex optimization algorithms for training shallow ReLU networks by leveraging equivalent model classes and cone decompositions. Code will be released soon. 
+
+### 2021
+
+* **September 1**: I finally moved to Stanford, CA. It's great to be here!
+* **June 30**: I was an expert reviewer and top reviewer for ICML 2021. 
+* **April 10**: [Mark Schmidt](https://www.cs.ubc.ca/~schmidtm/) and [Frederik Kunstner](https://fkunstner.github.io) received [best paper](http://proceedings.mlr.press/v130/kunstner21a.html) at AISTATS 2021 for their work on the convergence of expectation-maximization. Congratulations! 
+
 ### 2020
 
+* **October 20**: I was ranked in the top 10% of reviewers for NeurIPS this year. 
 * **September 15**: I successfully "defended" my master's thesis on first-order optimization under interpolation conditions. The thesis is available [here](http://hdl.handle.net/2429/76150). 
 * **September 10**: I have relocated (virtually) to Stanford to begin my PhD! 
 * **June 29 - July 10**: I had a lot of fun attending the virtual MLSS this year — many thanks to the organizers for their hard work! My virtual poster is public on [YouTube](https://www.youtube.com/watch?v=IchhE4JXLE4).
@@ -47,4 +60,5 @@ My email is
 ~~~
 <img class="email" src="/assets/images/email.png"\>
 ~~~
-and my GitHub is [aaronpmishkin](https://github.com/aaronpmishkin). My CV is [here](/assets/etc/amishkin_cv.pdf).
+And my GitHub is [aaronpmishkin](https://github.com/aaronpmishkin). 
+My CV is [here](/assets/etc/amishkin_cv.pdf).

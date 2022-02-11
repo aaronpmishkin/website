@@ -24,5 +24,6 @@ The last six months of my undergraduate degree were spent with [Emtiyaz Khan](ht
 I completed my master's at UBC in 2020, where I was fortunate to be supervised by [Mark Schmidt](https://www.cs.ubc.ca/~schmidtm/). My master's research was primarily on first-order optimization under interpolation conditions. I am very proud of the work we did on (mostly) parameter-free stochastic optimization using the Armjio line-search [[arXiv](https://arxiv.org/abs/1905.09997)].
 
 ### Service
-I was reviewer for NeurIPS 2019, NeurIPS 2020 and [ICML 2020](/assets/etc/icml_certificate.pdf). I have also reviewed for the Journal of Machine Learning Research. 
+I review for NeurIPS, [ICML](/assets/etc/icml_certificate.pdf), ICLR, and AISTATS. 
+I also review for the Journal of Machine Learning Research when requested. 
 

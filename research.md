@@ -1,8 +1,10 @@
 @def title = "Aaron Mishkin"
 
-# Publications
+# Papers
 
-1. \biblabel{vaswani2020each}{Vaswani et al. (2020)} _To Each Optimizer a Norm, To Each Norm its Generalization_. S. Vaswani, R. Babanezhad, J. Gallego, **A. Mishkin**, S. Lacoste-Julien, N. Le Roux. arXiv Preprint, 2020. [[arXiv](https://arxiv.org/abs/2006.06821)] 
+1. \biblabel{mishkin2022convex}{Mishkin et al. (2022)} _Fast Convex Optimization for Two-Layer ReLU Networks: Equivalent Model Classes and Cone Decompositions_. **A. Mishkin**, A. Sahiner, M. Pilanci. 2022. [[arXiv](https://arxiv.org/abs/2202.01331)]
+
+1. \biblabel{vaswani2020each}{Vaswani et al. (2020)} _How to Make Your Optimizer Generalize Better_. S. Vaswani, R. Babanezhad, J. Gallego, **A. Mishkin**, S. Lacoste-Julien, N. Le Roux. OPT2020: 12th Annual Workshop on Optimization for Machine Learning, 2020. [[arXiv](https://arxiv.org/abs/2006.06821)] [[Workshop](http://opt-ml.org/oldopt/papers/2020/paper_33.pdf)] 
 
 1. \biblabel{vaswani2019painless}{Painless SGD} _Painless Stochastic Gradient: Interpolation, Line-Search, and Convergence Rates_. S. Vaswani, **A. Mishkin**, I. Laradji, M. Schmidt, G. Gidel, S. Lacoste-Julien. NeurIPS, 2019. [[arXiv](https://arxiv.org/abs/1905.09997)] [[code](https://github.com/IssamLaradji/sls)] [[video](https://www.youtube.com/watch?v=3Jx0tuZ1ERs)]
 
@@ -20,7 +22,7 @@
 
 ### Talks about \citet{vaswani2019painless}:
 
-* _Better Optimization via Interpolation_: a short interview at CalTech on interpolation and the Armijo line-search. [[slides](/assets/slides/painless_caltech_version.pdf)]
+* _Better Optimization via Interpolation_: slides for an entrance interview at CalTech on interpolation and the Armijo line-search. [[slides](/assets/slides/painless_caltech_version.pdf)]
 * _Painless SGD_: A longer version of the same talk for a research exchange with the [PLAI lab](https://plai.cs.ubc.ca/). [[slides](/assets/slides/painless_exchange_version.pdf)] [[src](https://github.com/aaronpmishkin/talk-painless_sgd/tree/version/exchange)] 
 * _Painless SGD_: Slides from a video for MLSS 2020. [[slides](/assets/slides/painless_mlss_version.pdf)] [[video](https://www.youtube.com/watch?v=IchhE4JXLE4)] [[src](https://github.com/aaronpmishkin/talk-painless_sgd)] 
 

@@ -907,15 +907,21 @@ $	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==
 .short	_css/franklin.css	/^    .short {$/;"	c
 .short	_css/franklin.css	/^    .short{$/;"	c
 .short	_css/franklin.css	/^.short {$/;"	c
-2018	__site/index.html	/^<h2 id="2018"><a href="#2018">2018<\/a><\/h2>$/;"	I
-2018	__site/index.html	/^<h2 id="2018"><a href="#2018">2018<\/a><\/h2>$/;"	i
+2018	__site/index.html	/^<h3 id="2018"><a href="#2018" class="header-anchor">2018<\/a><\/h3>$/;"	I
+2018	__site/index.html	/^<h3 id="2018"><a href="#2018" class="header-anchor">2018<\/a><\/h3>$/;"	j
 2018	index.md	/^### 2018$/;"	S	chapter:Recent Activities
-2019	__site/index.html	/^<h2 id="2019"><a href="#2019">2019<\/a><\/h2>$/;"	I
-2019	__site/index.html	/^<h2 id="2019"><a href="#2019">2019<\/a><\/h2>$/;"	i
+2019	__site/index.html	/^<h3 id="2019"><a href="#2019" class="header-anchor">2019<\/a><\/h3>$/;"	I
+2019	__site/index.html	/^<h3 id="2019"><a href="#2019" class="header-anchor">2019<\/a><\/h3>$/;"	j
 2019	index.md	/^### 2019$/;"	S	chapter:Recent Activities
-2020	__site/index.html	/^<h2 id="2020"><a href="#2020">2020<\/a><\/h2>$/;"	I
-2020	__site/index.html	/^<h2 id="2020"><a href="#2020">2020<\/a><\/h2>$/;"	i
+2020	__site/index.html	/^<h3 id="2020"><a href="#2020" class="header-anchor">2020<\/a><\/h3>$/;"	I
+2020	__site/index.html	/^<h3 id="2020"><a href="#2020" class="header-anchor">2020<\/a><\/h3>$/;"	j
 2020	index.md	/^### 2020$/;"	S	chapter:Recent Activities
+2021	__site/index.html	/^<h3 id="2021"><a href="#2021" class="header-anchor">2021<\/a><\/h3>$/;"	I
+2021	__site/index.html	/^<h3 id="2021"><a href="#2021" class="header-anchor">2021<\/a><\/h3>$/;"	j
+2021	index.md	/^### 2021$/;"	S	chapter:Recent Activities
+2022	__site/index.html	/^<h3 id="2022"><a href="#2022" class="header-anchor">2022<\/a><\/h3>$/;"	I
+2022	__site/index.html	/^<h3 id="2022"><a href="#2022" class="header-anchor">2022<\/a><\/h3>$/;"	j
+2022	index.md	/^### 2022$/;"	S	chapter:Recent Activities
 <	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda60500.h
 <	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e30500.h
 >	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda60500.h
@@ -929,8 +935,9 @@ Aaron Mishkin	__site/research/index.html	/^  <h1><a href="\/">Aaron Mishkin<\/a>
 Aaron Mishkin	__site/tag/code/index.html	/^  <h1><a href="\/">Aaron Mishkin<\/a><\/h1>$/;"	h
 Aaron Mishkin	__site/tag/image/index.html	/^  <h1><a href="\/">Aaron Mishkin<\/a><\/h1>$/;"	h
 Aaron Mishkin	__site/tag/syntax/index.html	/^  <h1><a href="\/">Aaron Mishkin<\/a><\/h1>$/;"	h
+Aaron Mishkin	__site/trip_reports/index.html	/^  <h1><a href="\/">Aaron Mishkin<\/a><\/h1>$/;"	h
 Aaron Mishkin	_layout/header.html	/^  <h1><a href="\/">Aaron Mishkin<\/a><\/h1>$/;"	h
-About	__site/index.html	/^<div class="short"><h1 id="about"><a href="#about">About<\/a><\/h1><\/div>$/;"	h
+About	__site/index.html	/^<div class="short"><h1 id="about"><a href="#about" class="header-anchor">About<\/a><\/h1><\/div>$/;"	h
 About	index.md	/^# About $/;"	c
 AnonymousFunction0922bda60100	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 AnonymousFunction0922bda60200	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:AnonymousFunction0922bda60100
@@ -1638,19 +1645,19 @@ C_NUMBER_MODE	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="obje
 C_NUMBER_MODE	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
 C_NUMBER_RE	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b70200.r
 C_NUMBER_RE	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
-Code	__site/code/index.html	/^<div class="franklin-content"><h1 id="code"><a href="#code">Code<\/a><\/h1>$/;"	h
+Code	__site/code/index.html	/^<div class="franklin-content"><h1 id="code"><a href="#code" class="header-anchor">Code<\/a><\/h1/;"	h
 Code	code.md	/^# Code$/;"	c
-Contact	__site/index.html	/^<h1 id="contact"><a href="#contact">Contact<\/a><\/h1>$/;"	h
+Contact	__site/index.html	/^<h1 id="contact"><a href="#contact" class="header-anchor">Contact<\/a><\/h1>$/;"	h
 Contact	index.md	/^# Contact$/;"	c
 D	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f
 D	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 D	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f
 D	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
-Detailed About	__site/about/index.html	/^<div class="short"><h1 id="detailed_about"><a href="#detailed_about">Detailed About<\/a><\/h1><\//;"	h
+Detailed About	__site/about/index.html	/^<div class="short"><h1 id="detailed_about"><a href="#detailed_about" class="header-anchor">Detai/;"	h
 Detailed About	about.md	/^# Detailed About$/;"	c
 E	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f	function:AnonymousFunctioncdf8e3b70200
 E	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f	function:AnonymousFunctionb62d00940200
-Education	__site/about/index.html	/^<h3 id="education"><a href="#education">Education<\/a><\/h3>$/;"	j
+Education	__site/about/index.html	/^<h3 id="education"><a href="#education" class="header-anchor">Education<\/a><\/h3>$/;"	j
 Education	about.md	/^### Education$/;"	S	chapter:Detailed About
 Ft	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 Ft	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
@@ -1662,7 +1669,7 @@ HASH_COMMENT_MODE	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="
 HASH_COMMENT_MODE	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
 IDENT_RE	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b70200.r
 IDENT_RE	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
-Interests	__site/about/index.html	/^<h3 id="interests"><a href="#interests">Interests<\/a><\/h3>$/;"	j
+Interests	__site/about/index.html	/^<h3 id="interests"><a href="#interests" class="header-anchor">Interests<\/a><\/h3>$/;"	j
 Interests	about.md	/^### Interests$/;"	S	chapter:Detailed About
 L	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f
 L	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f
@@ -1670,7 +1677,7 @@ M	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof 
 M	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 M	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f
 M	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
-Miscellaneous:	__site/research/index.html	/^<h3 id="miscellaneous"><a href="#miscellaneous">Miscellaneous:<\/a><\/h3>$/;"	j
+Miscellaneous:	__site/research/index.html	/^<h3 id="miscellaneous"><a href="#miscellaneous" class="header-anchor">Miscellaneous:<\/a><\/h3>$/;"	j
 Miscellaneous:	research.md	/^### Miscellaneous:$/;"	S	chapter:Talks
 NUMBER_MODE	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b70200.r
 NUMBER_MODE	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
@@ -1678,8 +1685,8 @@ NUMBER_RE	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"=
 NUMBER_RE	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
 PHRASAL_WORDS_MODE	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b70200.r
 PHRASAL_WORDS_MODE	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
-Publications	__site/research/index.html	/^<div class="franklin-content"><h1 id="publications"><a href="#publications">Publications<\/a><\//;"	h
-Publications	research.md	/^# Publications$/;"	c
+Papers	__site/research/index.html	/^<div class="franklin-content"><h1 id="papers"><a href="#papers" class="header-anchor">Papers<\/a/;"	h
+Papers	research.md	/^# Papers$/;"	c
 QUOTE_STRING_MODE	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b70200.r
 QUOTE_STRING_MODE	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
 Qt	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
@@ -1690,11 +1697,11 @@ REGEXP_MODE	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object
 REGEXP_MODE	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
 RE_STARTERS_RE	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b70200.r
 RE_STARTERS_RE	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
-Recent Activities	__site/index.html	/^<div class="short"><h1 id="recent_activities"><a href="#recent_activities">Recent Activities<\/a/;"	h
+Recent Activities	__site/index.html	/^<div class="short"><h1 id="recent_activities"><a href="#recent_activities" class="header-anchor"/;"	h
 Recent Activities	index.md	/^# Recent Activities$/;"	c
 S	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f
 S	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f
-Service	__site/about/index.html	/^<h3 id="service"><a href="#service">Service<\/a><\/h3>$/;"	j
+Service	__site/about/index.html	/^<h3 id="service"><a href="#service" class="header-anchor">Service<\/a><\/h3>$/;"	j
 Service	about.md	/^### Service$/;"	S	chapter:Detailed About
 T	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f
 T	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f
@@ -1704,15 +1711,18 @@ Tag: code	__site/tag/code/index.html	/^    <h1>Tag: code<\/h1>$/;"	h
 Tag: image	__site/tag/image/index.html	/^    <h1>Tag: image<\/h1>$/;"	h
 Tag: syntax	__site/tag/syntax/index.html	/^    <h1>Tag: syntax<\/h1>$/;"	h
 Tag: {{fill fd_tag}}	_layout/tag.html	/^    <h1>Tag: {{fill fd_tag}}<\/h1>$/;"	h
-Talks	__site/research/index.html	/^<h1 id="talks"><a href="#talks">Talks<\/a><\/h1>$/;"	h
+Talks	__site/research/index.html	/^<h1 id="talks"><a href="#talks" class="header-anchor">Talks<\/a><\/h1>$/;"	h
 Talks	research.md	/^# Talks$/;"	c
 Talks about Painless SGD:	__site/research/index.html	/^<h3 id="talks_about_span_classbibrefhref_bibr_vaswani2019painless"><a href="#talks_about_span_cl/;"	j
 Talks about \\citet{vaswani2019painless}:	research.md	/^### Talks about \\citet{vaswani2019painless}:$/;"	S	chapter:Talks
 Talks at the UBC Machine Learning Reading Group &#40;MLRG&#41;:	__site/research/index.html	/^<h3 id="talks_at_the_ubc_machine_learning_reading_group_a_hrefhttpswwwcsubccalabslcimlrgmlrg"><a/;"	j
 Talks at the UBC Machine Learning Reading Group [(MLRG)](https://www.cs.ubc.ca/labs/lci/mlrg/):	research.md	/^### Talks at the UBC Machine Learning Reading Group [(MLRG)](https:\/\/www.cs.ubc.ca\/labs\/lci\//;"	S	chapter:Talks
+Theses	__site/research/index.html	/^<h1 id="theses"><a href="#theses" class="header-anchor">Theses<\/a><\/h1>$/;"	h
 Theses	research.md	/^# Theses$/;"	c
 Tr	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 Tr	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
+Trip Reports	__site/trip_reports/index.html	/^<div class="short"><h1 id="trip_reports"><a href="#trip_reports" class="header-anchor">Trip Repo/;"	h
+Trip Reports	trip_reports.md	/^# Trip Reports $/;"	c
 UNDERSCORE_IDENT_RE	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b70200.r
 UNDERSCORE_IDENT_RE	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
 UNDERSCORE_TITLE_MODE	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b70200.r
@@ -1759,7 +1769,7 @@ a	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==
 a	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	c	class:AnonymousFunctionacf945e38500
 a	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	c	class:e.formatUnsupportedCmd
 a	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:AnonymousFunctionacf945e30500
-about	__site/index.html	/^<div class="short"><h1 id="about"><a href="#about">About<\/a><\/h1><\/div>$/;"	I
+about	__site/index.html	/^<div class="short"><h1 id="about"><a href="#about" class="header-anchor">About<\/a><\/h1><\/div>$/;"	I
 align	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda67f00.a
 align	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e37f00.a
 alwaysHandleSupSub	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda68e00.s
@@ -1999,7 +2009,7 @@ className	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"=
 className	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
 classPrefix	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b70200.B
 classPrefix	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.B
-code	__site/code/index.html	/^<div class="franklin-content"><h1 id="code"><a href="#code">Code<\/a><\/h1>$/;"	I
+code	__site/code/index.html	/^<div class="franklin-content"><h1 id="code"><a href="#code" class="header-anchor">Code<\/a><\/h1/;"	I
 code	__site/css/franklin.css	/^code {$/;"	s
 code	_css/franklin.css	/^code {$/;"	s
 color	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:e.extend.r
@@ -2014,7 +2024,7 @@ consumeArgs	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exp
 consumeArgs	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:e
 consumeSpaces	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:e
 consumeSpaces	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:e
-contact	__site/index.html	/^<h1 id="contact"><a href="#contact">Contact<\/a><\/h1>$/;"	I
+contact	__site/index.html	/^<h1 id="contact"><a href="#contact" class="header-anchor">Contact<\/a><\/h1>$/;"	I
 contains	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b70200.r
 contains	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	m	class:AnonymousFunction0922bda60500.c
 contains	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
@@ -2039,7 +2049,7 @@ deflt	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&
 deflt	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	m	class:AnonymousFunctionacf945e30500.c
 delim	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda67300.a
 delim	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e37300.a
-detailed_about	__site/about/index.html	/^<div class="short"><h1 id="detailed_about"><a href="#detailed_about">Detailed About<\/a><\/h1><\//;"	I
+detailed_about	__site/about/index.html	/^<div class="short"><h1 id="detailed_about"><a href="#detailed_about" class="header-anchor">Detai/;"	I
 display	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda6e300.o
 display	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e3e300.o
 e	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f	function:AnonymousFunctioncdf8e3b70200.E
@@ -2084,7 +2094,7 @@ eW	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof
 eW	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b72800.c
 eW	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00942500.r
 eW	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00942800.c
-education	__site/about/index.html	/^<h3 id="education"><a href="#education">Education<\/a><\/h3>$/;"	I
+education	__site/about/index.html	/^<h3 id="education"><a href="#education" class="header-anchor">Education<\/a><\/h3>$/;"	I
 elem	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda6b700.h
 elem	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda6b700.s
 elem	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e3b700.h
@@ -2261,7 +2271,7 @@ illegalRe	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"=
 illegalRe	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
 insertAfter	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:a
 insertAfter	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:a
-interests	__site/about/index.html	/^<h3 id="interests"><a href="#interests">Interests<\/a><\/h3>$/;"	I
+interests	__site/about/index.html	/^<h3 id="interests"><a href="#interests" class="header-anchor">Interests<\/a><\/h3>$/;"	I
 isCharacterBox	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	m	class:AnonymousFunction0922bda60500.c
 isCharacterBox	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	m	class:AnonymousFunctionacf945e30500.c
 isDefined	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:e
@@ -2362,9 +2372,10 @@ meta-keyword	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="objec
 meta-keyword	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00941c00.o.k
 minRuleThickness	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:e.extend.r
 minRuleThickness	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:e.extend.r
-miscellaneous	__site/research/index.html	/^<h3 id="miscellaneous"><a href="#miscellaneous">Miscellaneous:<\/a><\/h3>$/;"	I
+miscellaneous	__site/research/index.html	/^<h3 id="miscellaneous"><a href="#miscellaneous" class="header-anchor">Miscellaneous:<\/a><\/h3>$/;"	I
 mishkin2018slang	__site/research/index.html	/^<li><p><a id="mishkin2018slang" class="anchor"><\/a><em>SLANG: Fast Structured Covariance Approx/;"	I
 mishkin2018wvc	__site/research/index.html	/^<li><p><a id="mishkin2018wvc" class="anchor"><\/a><em>Web ValueCharts: Analyzing Individual and /;"	I
+mishkin2022convex	__site/research/index.html	/^<li><p><a id="mishkin2022convex" class="anchor"><\/a><em>Fast Convex Optimization for Two-Layer /;"	I
 mode	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda611800.h
 mode	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda611800.i
 mode	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda67f00.s
@@ -2419,6 +2430,7 @@ n	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==
 n	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:AnonymousFunctionacf945e30500
 n	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:AnonymousFunctionacf945e39c00
 n	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:r
+ns12594cb90101	__site/sitemap.xml	/^<urlset xmlns="http:\/\/www.sitemaps.org\/schemas\/sitemap\/0.9">$/;"	n	uri:http://www.sitemaps.org/schemas/sitemap/0.9
 number	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda611400.n
 number	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda6a700.r
 number	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda6a800.i
@@ -2459,6 +2471,7 @@ p	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window
 p	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	f	function:AnonymousFunctionb62d00940200
 pa	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
 pa	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
+papers	__site/research/index.html	/^<div class="franklin-content"><h1 id="papers"><a href="#papers" class="header-anchor">Papers<\/a/;"	I
 parentIsSupSub	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda68e00.s
 parentIsSupSub	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e38e00.s
 parse	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	c	class:e
@@ -2493,7 +2506,6 @@ pregap	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&
 pregap	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e37f00.a
 protocolFromUrl	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	m	class:AnonymousFunction0922bda60500.c
 protocolFromUrl	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	m	class:AnonymousFunctionacf945e30500.c
-publications	__site/research/index.html	/^<div class="franklin-content"><h1 id="publications"><a href="#publications">Publications<\/a><\//;"	I
 push	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	m	class:o
 push	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	m	class:o
 pushToken	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	c	class:e
@@ -2548,7 +2560,7 @@ range	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&
 range	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	m	class:t
 range	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:t
 range	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	m	class:t
-recent_activities	__site/index.html	/^<div class="short"><h1 id="recent_activities"><a href="#recent_activities">Recent Activities<\/a/;"	I
+recent_activities	__site/index.html	/^<div class="short"><h1 id="recent_activities"><a href="#recent_activities" class="header-anchor"/;"	I
 relevance	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b71c00.d
 relevance	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b71c00.l
 relevance	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b71c00.n
@@ -2603,7 +2615,7 @@ scriptscript	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof ex
 scriptscript	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e3e300.o
 semisimple	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:gullet.m
 semisimple	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:gullet.m
-service	__site/about/index.html	/^<h3 id="service"><a href="#service">Service<\/a><\/h3>$/;"	I
+service	__site/about/index.html	/^<h3 id="service"><a href="#service" class="header-anchor">Service<\/a><\/h3>$/;"	I
 setAttribute	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	c	class:e
 setAttribute	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	c	class:e
 setCatcode	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	c	class:e
@@ -2698,7 +2710,7 @@ t	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==
 t	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:r
 tabReplace	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b70200.B
 tabReplace	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.B
-talks	__site/research/index.html	/^<h1 id="talks"><a href="#talks">Talks<\/a><\/h1>$/;"	I
+talks	__site/research/index.html	/^<h1 id="talks"><a href="#talks" class="header-anchor">Talks<\/a><\/h1>$/;"	I
 talks_about_span_classbibrefhref_bibr_vaswani2019painless	__site/research/index.html	/^<h3 id="talks_about_span_classbibrefhref_bibr_vaswani2019painless"><a href="#talks_about_span_cl/;"	I
 talks_at_the_ubc_machine_learning_reading_group_a_hrefhttpswwwcsubccalabslcimlrgmlrg	__site/research/index.html	/^<h3 id="talks_at_the_ubc_machine_learning_reading_group_a_hrefhttpswwwcsubccalabslcimlrgmlrg"><a/;"	I
 td	__site/css/franklin.css	/^.franklin-content .fndef tr, td {$/;"	s
@@ -2723,6 +2735,7 @@ text	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object
 text	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:settings.i
 textSize	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:e.extend.r
 textSize	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:e.extend.r
+theses	__site/research/index.html	/^<h1 id="theses"><a href="#theses" class="header-anchor">Theses<\/a><\/h1>$/;"	I
 toMarkup	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	c	class:e
 toMarkup	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:e
 toMarkup	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	c	class:e
@@ -2733,6 +2746,7 @@ toText	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&
 toText	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f	function:e
 token	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:e.callFunction.i
 token	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:e.callFunction.i
+trip_reports	__site/trip_reports/index.html	/^<div class="short"><h1 id="trip_reports"><a href="#trip_reports" class="header-anchor">Trip Repo/;"	I
 type	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda611800.h
 type	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda611800.i
 type	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda67f00.a
@@ -2816,7 +2830,8 @@ value	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof wi
 variants	__site/libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctioncdf8e3b70200.r
 variants	_libs/highlight/highlight.pack.js	/^!function(e){var n="object"==typeof window&&window||"object"==typeof self&&self;"undefined"==typ/;"	p	class:AnonymousFunctionb62d00940200.r
 vaswani2019painless	__site/research/index.html	/^<li><p><a id="vaswani2019painless" class="anchor"><\/a><em>Painless Stochastic Gradient: Interpo/;"	I
-vaswani2020each	__site/research/index.html	/^<li><p><a id="vaswani2020each" class="anchor"><\/a><em>To Each Optimizer a Norm, To Each Norm it/;"	I
+vaswani2020each	__site/research/index.html	/^<li><p><a id="vaswani2020each" class="anchor"><\/a><em>How to Make Your Optimizer Generalize Bet/;"	I
+vaswani2020each	__site/research/index.html	/^<li><p><a id="vaswani2020each" class="anchor"><\/a><em>Interpolation, Growth Conditions, and Sto/;"	I
 vmatrix	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunction0922bda68300.e
 vmatrix	_libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	p	class:AnonymousFunctionacf945e38300.e
 vr	__site/libs/katex/katex.min.js	/^!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==/;"	f
